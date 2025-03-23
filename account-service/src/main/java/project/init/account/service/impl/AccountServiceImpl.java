@@ -1,0 +1,1 @@
+package project.init.account.service.impl;import org.springframework.stereotype.Service;import project.init.account.service.AccountService;@Servicepublic class AccountServiceImpl implements AccountService {}

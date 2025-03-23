@@ -1,0 +1,1 @@
+package project.init.framework.utils;import java.sql.Timestamp;public class DateTimeUtils {    private DateTimeUtils() {    }    public static Timestamp getCurrentTimestamp() {        return new Timestamp(System.currentTimeMillis());    }}

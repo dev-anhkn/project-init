@@ -1,0 +1,1 @@
+package project.init.account.domain.dto;import lombok.Data;import java.time.Instant;@Datapublic class AccountDto {    private String accountCode;    private String passwordHash;    private String accountStatus;    private Instant createdAt;    private Instant updatedAt;}

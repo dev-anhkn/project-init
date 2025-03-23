@@ -1,0 +1,1 @@
+package project.init.account.controller;public class AuthController {}

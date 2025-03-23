@@ -1,0 +1,1 @@
+package project.init.account.service;public interface AccountService {}

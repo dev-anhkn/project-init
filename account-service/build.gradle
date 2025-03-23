@@ -1,0 +1,1 @@
+dependencies {    implementation project(':framework')    implementation 'org.springframework.boot:spring-boot-starter-security'    implementation 'com.nimbusds:nimbus-jose-jwt:10.0.2'}

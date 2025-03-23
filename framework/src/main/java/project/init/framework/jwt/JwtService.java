@@ -1,0 +1,1 @@
+package project.init.framework.jwt;public interface JwtService {    String genToken();}
