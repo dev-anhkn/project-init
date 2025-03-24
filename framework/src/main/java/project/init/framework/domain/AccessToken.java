@@ -1,0 +1,1 @@
+package project.init.framework.domain;import lombok.Data;import java.util.List;@Datapublic class AccessToken {    private String username;    private long expiresAt;    private long issuedAt;    private List<String> roles;}

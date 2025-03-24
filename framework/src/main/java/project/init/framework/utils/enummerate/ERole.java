@@ -1,0 +1,1 @@
+package project.init.framework.utils.enummerate;public enum ERole {    ADMIN, EDITOR, USER}

@@ -14,6 +14,7 @@ public class JwtConfig {
     private String base64Public;
 
     private String clientId;
+    private String issuer;
 
     public static final String ACCOUNT_CODE = "accountCode";
     public static final String ROLES = "roles";
