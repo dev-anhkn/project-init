@@ -1,1 +1,1 @@
-// module này được khai báo là một library moduleapply plugin: 'java-library'
+// module này được khai báo là một library moduleapply plugin: 'java-library'dependencies {    implementation 'com.nimbusds:nimbus-jose-jwt:10.0.2'}

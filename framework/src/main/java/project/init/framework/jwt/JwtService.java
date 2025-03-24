@@ -1,1 +1,1 @@
-package project.init.framework.jwt;public interface JwtService {    String genToken();}
+package project.init.framework.jwt;import java.util.List;public interface JwtService {    String genToken(String username, List<String> roles);}
