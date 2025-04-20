@@ -9,7 +9,6 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/account-service" />
-            <option value="$PROJECT_DIR$/data-service" />
             <option value="$PROJECT_DIR$/demo-service" />
             <option value="$PROJECT_DIR$/framework" />
           </set>
