@@ -1,0 +1,1 @@
+package project.init.framework.domain;import lombok.Getter;import lombok.Setter;import java.util.List;@Getter@Setterpublic class BearerContext {    private String accountCode;    private List<String> role;}

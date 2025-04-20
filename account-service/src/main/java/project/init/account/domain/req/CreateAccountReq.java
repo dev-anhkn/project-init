@@ -1,0 +1,1 @@
+package project.init.account.domain.req;import lombok.Data;import java.util.List;@Datapublic class CreateAccountReq {    private String accountCode;    private List<String> roles;}

@@ -1,0 +1,1 @@
+package project.init.account.domain.resp;public class AccountResp {}

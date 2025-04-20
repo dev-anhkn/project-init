@@ -1,0 +1,1 @@
+package project.init.account.config;public class MailConfig {}

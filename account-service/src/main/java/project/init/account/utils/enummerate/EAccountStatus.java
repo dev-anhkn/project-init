@@ -1,0 +1,1 @@
+package project.init.account.utils.enummerate;public enum EAccountStatus {    ACTIVE, INACTIVE}

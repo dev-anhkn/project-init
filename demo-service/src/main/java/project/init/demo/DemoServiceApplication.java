@@ -1,4 +1,4 @@
-package project.init.account;
+package project.init.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

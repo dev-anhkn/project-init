@@ -1,1 +1,1 @@
-dependencies {    implementation project(':framework')    implementation 'org.springframework.boot:spring-boot-starter-security'}
+dependencies {    implementation project(':framework')    implementation 'org.passay:passay:1.6.6'    implementation 'org.springframework.boot:spring-boot-starter-mail'}

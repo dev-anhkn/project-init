@@ -1,0 +1,1 @@
+package project.init.account.service;import project.init.account.domain.entity.AccountInfo;public interface AccountInfoService {    AccountInfo findByAccountEmail(String email);    ///////    void save(AccountInfo accountInfo);}

@@ -1,1 +1,1 @@
-rootProject.name = 'project-init'include 'framework'include 'demo-service'include 'account-service'
+rootProject.name = 'project-init'include 'framework'include 'demo-service'include 'account-service'

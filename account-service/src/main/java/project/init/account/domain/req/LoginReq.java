@@ -1,0 +1,1 @@
+package project.init.account.domain.req;import lombok.Data;@Datapublic class LoginReq {    private String accountCode;    private String password;}

@@ -1,0 +1,1 @@
+package project.init.account.domain.req;import jakarta.validation.constraints.Email;import jakarta.validation.constraints.NotBlank;import lombok.Data;@Datapublic class ResetPassReq {    @NotBlank(message = "Email is required")    @Email(message = "Email is not valid")    private String accountEmail;}

@@ -1,0 +1,1 @@
+package project.init.account.domain;import lombok.Data;@Datapublic class LogonResp {    public String accessToken;    public int code;    public String message;    public LogonResp(int code, String message) {        this.code = code;        this.message = message;    }    public LogonResp(String accessToken) {        this.accessToken = accessToken;    }}

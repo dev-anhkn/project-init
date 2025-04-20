@@ -1,0 +1,1 @@
+package project.init.account.service;import project.init.account.domain.entity.Role;import java.util.List;public interface RoleService {    List<Role> findByCodeIn(List<String> roles);}
